@@ -13,8 +13,6 @@ Tampermonkey/Greasemonkey is a way to run the program that will allow you to hig
 
 4. Now click on enable.user.js and then click the Raw button on the top right
 
-There will be a page that says install
-
 5. Click install
 
 Done!
