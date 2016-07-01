@@ -4,8 +4,8 @@
 // @version      0.1
 // @description  Lets you highlight things on fanfiction.net
 // @author       Yaseen S./ThePhantomGamer
-// @match        http://fanfiction.net/*
-// @match        https://fanfiction.net/*
+// @match        http://www.fanfiction.net/*
+// @match        https://www.fanfiction.net/*
 // @grant        none
 // ==/UserScript==
 
