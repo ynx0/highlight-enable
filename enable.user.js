@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Highlight Enable
 // @namespace    https://github.com/ThePhantomGamer/highlight-enable
-// @version      0.1
+// @version      0.1.1
 // @description  Lets you highlight things on fanfiction.net
 // @author       Yaseen S./ThePhantomGamer
 // @match        http://www.fanfiction.net/*
