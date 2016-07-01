@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Highlight Enable
+// @name         Fanfiction.net Highlight Enable
 // @namespace    https://github.com/ThePhantomGamer/highlight-enable
 // @version      0.1.2
 // @updateURL    https://github.com/ThePhantomGamer/highlight-enable/raw/master/enable.user.js
