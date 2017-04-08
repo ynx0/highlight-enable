@@ -12,12 +12,10 @@
 (function() {
     'use strict';
 
-    window.onload = window.setTimeout(
-    function(){
-        console.log("working...");
+    document.addEventListener("DOMContentLoaded", function(event) { 
+		console.log("working...");
         document.getElementById("storytextp").setAttribute("style", "padding: 0px 0.5em");
-    }, 150);
-    
+	});  
 })();
 
 
