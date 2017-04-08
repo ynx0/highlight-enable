@@ -12,9 +12,13 @@
 (function() {
     'use strict';
 
-    document.addEventListener("DOMContentLoaded", function(event) { 
-		console.log("working...");
-        document.getElementById("storytextp").setAttribute("style", "padding: 0px 0.5em");
+    window.onload = function(){
+		if(document.readyState = 'interactive'){
+	   		console.log("working...");
+			document.getElementById("storytextp").setAttribute("style", "padding: 0px 0.5em");
+		} else {
+			console.log('not interactive');	
+		}
 	});  
 })();
 
