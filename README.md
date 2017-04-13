@@ -3,16 +3,10 @@ Enables highlighting on fanfiction.net
 
 ## Steps to install:
 
+0. Make sure you have tamper/greasemonkey
 
-1. Get tamper/greasemonkey:
-Tampermonkey/Greasemonkey is a way to run the program that will allow you to highlight things
+1. go [here](https://greasyfork.org/en/scripts/21090-fanfiction-net-highlight-enable)
 
-2. if you have chrome: go to https://goo.gl/tUHkdR and click "add extension"
-
-3. if you have firefox: go to https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/ and add the extension
-
-4. Now click on enable.user.js and then click the Raw button on the top right
-
-5. Click install
+2. Click install
 
 Done!
